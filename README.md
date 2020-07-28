@@ -4,7 +4,7 @@ Meu nome é Daniel Barros de Oliveira, atualmente procurando oportunidade para a
 
 Gosto buscar conhecimento e estar em constante evolução, acredito muito que se aprendermos 1% ao dia, em 1 ano teremos evoluido 365%, por isso, depois de quase 10 anos atuando na área de TI, voltado para suporte a usuário, sistemas e infraestrutura, e passando por empresas de Médio e Grande porte, nacionais e multinacionais, comecei a aprender sobre desenvolvimento e me apaixonei (❤️), fiz minha graduação em Análise e Desenvolvimento de Sistemas, e estou correndo atrás do meu sonho, me tornar um Desenvolvedor WEB Full-Stack.
 
-Atualmente estou nesse projeto: [Daniel Flix](https://danielflix.vercel.app/), que estou desenvolvendo durante a imersão React da Alura, e adicionando minha personalidade.
+Atualmente estou nesse projeto: [Daniel Flix](https://danielflix.vercel.app/), desenvolvendo durante a imersão React da Alura, e adicionando minha personalidade.
 
 Em meu tempo livre, gosto de assitir futebol (⚽️), assitir animes (📺), tocar (🎸) e ouvir música (🎵), ler alguns livros (📚);
 
