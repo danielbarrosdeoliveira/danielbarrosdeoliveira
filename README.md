@@ -6,7 +6,7 @@ Gosto de buscar conhecimento e estar em constante evolução, acredito muito que
 
 Após quase 10 anos atuando na área de TI, voltado para suporte a usuários, sistemas e infraestrutura, passando por diversas empresas de médio e grande porte, nacionais e multinacionais, finalmente realizei meu sonho de atuar como desenvolvedor, formado em Análise e Desenvolvimento de Sistemas pela Anhanguera e apaixonado por essa área(❤️).
 
-Tecnologias que atuo no dia a dia:
+Tecnologias que atuo:
 
 - HTML
 - CSS (Grid Layout e Flex-box)
@@ -19,7 +19,7 @@ Tecnologias que possuo conhecimento:
 - React.js
 - Nuxt.js
 - Materialize CSS
-- 
+- Bootstrap 3, 4 3 5
 
 Tecnologias que estou estudando:
 
