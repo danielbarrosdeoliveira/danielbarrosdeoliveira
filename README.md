@@ -19,7 +19,7 @@ Tecnologias que possuo conhecimento:
 - React.js
 - Nuxt.js
 - Materialize CSS
-- Bootstrap 3, 4 3 5
+- Bootstrap 3, 4 e 5
 
 Tecnologias que estou estudando:
 
@@ -30,7 +30,7 @@ Tecnologias que estou estudando:
 - Docker
 - MySQL
 
-Em meu tempo livre, gosto de assitir animes, filmes de ação e aventura(📺), tocar violão e guitarra (🎸) e ouvir música (🎵), ler alguns livros (📚), e estudar programação (🙂);
+Em meu tempo livre, gosto de assitir animes, filmes de ação e aventura(📺), tocar violão e guitarra (🎸) e ouvir música (🎵), ler alguns livros (📚).
 
 Quer bater um papo ou me encontrar?
 
