@@ -1,6 +1,6 @@
 ### Olá, bem-vindo(a)! 😄
 
-Meu nome é Daniel Barros de Oliveira, atualmente sou desenvolvedor WEB Frontend na G2L Logística.
+Meu nome é Daniel Barros de Oliveira, atualmente sou desenvolvedor Frontend na Ília Digital.
 
 Gosto de buscar conhecimento e estar em constante evolução, acredito muito que se melhorarmos 1% ao dia, em 1 ano teremos evoluido 365%.
 
