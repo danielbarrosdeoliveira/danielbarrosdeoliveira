@@ -8,16 +8,23 @@ Após quase 10 anos atuando na área de TI, voltado para suporte a usuários, si
 
 Tecnologias que atuo:
 
-- HTML
-- CSS (Grid Layout e Flex-box)
+- HTML5
+- CSS3 (Grid Layout e Flex-box)
+- SASS
 - Javascript (ES6+)
-- Tailwind e Vuetify
-- Vue.js (Vuex)
+- Typescript
+- Vue.js
+- Vuex
+- Vue Router
+- Consumo de API Rest com Axios
+- Jest (testes unitários)
 
 Tecnologias que possuo conhecimento:
 
 - React.js
 - Nuxt.js
+- Vuetify
+- Tailwind
 - Materialize CSS
 - Bootstrap 3, 4 e 5
 
@@ -34,6 +41,5 @@ Em meu tempo livre, gosto de assitir animes, filmes de ação e aventura(📺), 
 
 Quer bater um papo ou me encontrar?
 
-[![Site Badge](https://img.shields.io/badge/Site-danieloliveira.info-black)](http://danieloliveira.info/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&labelColor=red&logo=instagram&logoColor=white&link=https://www.instagram.com/danieloliveira_dev/)](https://www.instagram.com/danieloliveira_dev/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielbarrosdeoliveira/)](https://www.linkedin.com/in/danielbarrosdeoliveira/)
