@@ -4,38 +4,42 @@ Meu nome é Daniel Barros de Oliveira, atualmente sou desenvolvedor Frontend na 
 
 Gosto de buscar conhecimento e estar em constante evolução, acredito muito que se melhorarmos 1% ao dia, em 1 ano teremos evoluido 365%.
 
-Após quase 10 anos atuando na área de TI, voltado para suporte a usuários, sistemas e infraestrutura, passando por diversas empresas de médio e grande porte, nacionais e multinacionais, finalmente realizei meu sonho de atuar como desenvolvedor, formado em Análise e Desenvolvimento de Sistemas pela Anhanguera e apaixonado por essa área(❤️).
+Após quase 10 anos atuando na área de TI, voltado para suporte a usuários, sistemas e infraestrutura, passando por diversas empresas de médio e grande porte, nacionais e multinacionais, hoje atuo como desenvolvedor, formado em ADS (Análise e Desenvolvimento de Sistemas) e apaixonado por essa área(❤️).
 
 Tecnologias que atuo:
 
 - HTML5
-- CSS3 (Grid Layout e Flex-box)
-- SASS
+- CSS3
+- SASS (SCSS)
 - Javascript (ES6+)
 - Typescript
-- Vue.js
+- Vue.js e Nuxt.js
 - Vuex
 - Vue Router
 - Consumo de API Rest com Axios
-- Jest (testes unitários)
+- Consumo de API GrapqhQL com Apollo
+- Jest, Vue Test Utils, Vue Testing Library (testes unitários)
 
 Tecnologias que possuo conhecimento:
 
 - React.js
-- Nuxt.js
 - Vuetify
 - Tailwind
 - Materialize CSS
 - Bootstrap 3, 4 e 5
-
-Tecnologias que estou estudando:
-
 - Node.js
+- Express
 - Adonis.js (MVC, Middlewares)
 - Lucid ORM
 - Autenticação com Adonis.js (token)
-- Docker
-- MySQL
+- Docker (instalação, criar e configurar container com arquivos yml)
+- MySQL (CRUD)
+
+Tecnologias que estou estudando:
+
+- React Native
+- Expo
+- Styled Components
 
 Em meu tempo livre, gosto de assitir animes, filmes de ação e aventura(📺), tocar violão e guitarra (🎸) e ouvir música (🎵), ler alguns livros (📚).
 
