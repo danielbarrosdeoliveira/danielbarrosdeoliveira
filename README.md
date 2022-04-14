@@ -1,12 +1,12 @@
-### Olá, bem-vindo(a)! 😄
+### Olá, bem-vindo(a)! :smile:
 
-Meu nome é Daniel Barros de Oliveira, atualmente sou desenvolvedor Frontend na Ília Digital.
+Meu nome é Daniel Barros de Oliveira, 
 
-Gosto de buscar conhecimento e estar em constante evolução, acredito muito que se melhorarmos 1% ao dia, em 1 ano teremos evoluido 365%.
+Após quase 10 anos atuando na área de TI, voltado para suporte a usuários, sistemas, redes, implantação de sistemas, passando por diversas empresas de médio e grande porte, nacionais e multinacionais, atualmente sou desenvolvedor Frontend na Ília Digital, formado em ADS (Análise e Desenvolvimento de Sistemas) e apaixonado por essa área(:heart:).
 
-Após quase 10 anos atuando na área de TI, voltado para suporte a usuários, sistemas e infraestrutura, passando por diversas empresas de médio e grande porte, nacionais e multinacionais, hoje atuo como desenvolvedor, formado em ADS (Análise e Desenvolvimento de Sistemas) e apaixonado por essa área(❤️).
+Gosto de buscar conhecimento e estar em constante evolução, acredito muito que se melhorarmos 1% ao dia, em 1 ano teremos evoluído 365%.
 
-Tecnologias que atuo:
+**Tecnologias que atuo:**
 
 - HTML5
 - CSS3
@@ -20,7 +20,7 @@ Tecnologias que atuo:
 - Consumo de API GrapqhQL com Apollo
 - Jest, Vue Test Utils, Vue Testing Library (testes unitários)
 
-Tecnologias que possuo conhecimento:
+**Tecnologias que possuo conhecimento:**
 
 - React.js
 - Vuetify
@@ -35,15 +35,16 @@ Tecnologias que possuo conhecimento:
 - Docker (instalação, criar e configurar container com arquivos yml)
 - MySQL (CRUD)
 
-Tecnologias que estou estudando:
+**Tecnologias que estou estudando:**
 
 - React Native
 - Expo
 - Styled Components
 
-Em meu tempo livre, gosto de assitir animes, filmes de ação e aventura(📺), tocar violão e guitarra (🎸) e ouvir música (🎵), ler alguns livros (📚).
+Em meu tempo livre, gosto de assistir animes, filmes de ação e aventura(:tv:), tocar violão e guitarra (:guitar:) e ouvir música (:musical_note:), ler alguns livros (:books:).
 
 Quer bater um papo ou me encontrar?
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&labelColor=red&logo=instagram&logoColor=white&link=https://www.instagram.com/danieloliveira_dev/)](https://www.instagram.com/danieloliveira_dev/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielbarrosdeoliveira/)](https://www.linkedin.com/in/danielbarrosdeoliveira/)
+![Linkedin Badge](https://img.shields.io/static/v1?label=email&message=danielbarrosdeoliveira@outlook.com&color=blue)
