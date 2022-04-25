@@ -2,7 +2,7 @@
 
 Meu nome é Daniel Barros de Oliveira, 
 
-Após quase 10 anos atuando na área de TI, voltado para suporte a usuários, sistemas, redes, implantação de sistemas, passando por diversas empresas de médio e grande porte, nacionais e multinacionais, atualmente sou desenvolvedor Frontend na Ília Digital, formado em ADS (Análise e Desenvolvimento de Sistemas) e apaixonado por essa área(:heart:).
+Após 11 anos atuando na área de TI (voltado para suporte a usuários, sistemas, redes, implantação de sistemas, passando por diversas empresas de médio e grande porte, nacionais e multinacionais), resolvi migrar de área indo atuar como desenvolvedor, e hoje com cerca de 1 ano e 6 meses como Desenvolvedor Frontend, estou trabalhando para Ília Digital, formado em ADS (Análise e Desenvolvimento de Sistemas) e apaixonado por essa área(:heart:).
 
 Gosto de buscar conhecimento e estar em constante evolução, acredito muito que se melhorarmos 1% ao dia, em 1 ano teremos evoluído 365%.
 
