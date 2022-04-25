@@ -17,7 +17,6 @@ Gosto de buscar conhecimento e estar em constante evolução, acredito muito que
 - Vuex
 - Vue Router
 - Consumo de API Rest com Axios
-- Consumo de API GrapqhQL com Apollo
 - Jest, Vue Test Utils, Vue Testing Library (testes unitários)
 
 **Tecnologias que possuo conhecimento:**
@@ -34,6 +33,7 @@ Gosto de buscar conhecimento e estar em constante evolução, acredito muito que
 - Autenticação com Adonis.js (token)
 - Docker (instalação, criar e configurar container com arquivos yml)
 - MySQL (CRUD)
+- Consumo de API GrapqhQL com Apollo
 
 **Tecnologias que estou estudando:**
 
