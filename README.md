@@ -34,12 +34,14 @@ Gosto de buscar conhecimento e estar em constante evolução, acredito muito que
 - Docker (instalação, criar e configurar container com arquivos yml)
 - MySQL (CRUD)
 - Consumo de API GrapqhQL com Apollo
+- Dart
 
 **Tecnologias que estou estudando:**
 
 - React Native
 - Expo
 - Styled Components
+- Flutter
 
 Em meu tempo livre, gosto de assistir animes, filmes de ação e aventura(:tv:), tocar violão e guitarra (:guitar:) e ouvir música (:musical_note:), ler alguns livros (:books:).
 
