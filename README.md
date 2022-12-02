@@ -50,3 +50,10 @@ Quer bater um papo ou me encontrar?
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&labelColor=red&logo=instagram&logoColor=white&link=https://www.instagram.com/danieloliveira_dev/)](https://www.instagram.com/danieloliveira_dev/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielbarrosdeoliveira/)](https://www.linkedin.com/in/danielbarrosdeoliveira/)
 ![Linkedin Badge](https://img.shields.io/static/v1?label=email&message=danielbarrosdeoliveira@outlook.com&color=blue)
+
+<div align="center">
+  <a href="https://github.com/danielbarrosdeoliveira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielbarrosdeoliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+&emsp;&emsp;&emsp;&emsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielbarrosdeoliveira&layout=compact&langs_count=7&theme=dark"/>
+</div>
