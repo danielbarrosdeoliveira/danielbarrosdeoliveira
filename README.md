@@ -6,42 +6,11 @@ Após 11 anos atuando na área de TI (voltado para suporte a usuários, sistemas
 
 Gosto de buscar conhecimento e estar em constante evolução, acredito muito que se melhorarmos 1% ao dia, em 1 ano teremos evoluído 365%.
 
-**Tecnologias que atuo:**
+**Tecnologias que atuo:** HTML5, CSS3, SASS (SCSS), Javascript (ES6+), Typescript, Vue.js, Nuxt.js (Vuex/Pinia, Vue Router), Consumo de API Rest com Axios, Jest, Vue Test Utils, Vue Testing Library.
 
-- HTML5
-- CSS3
-- SASS (SCSS)
-- Javascript (ES6+)
-- Typescript
-- Vue.js e Nuxt.js
-- Vuex
-- Vue Router
-- Consumo de API Rest com Axios
-- Jest, Vue Test Utils, Vue Testing Library (testes unitários)
+**Tecnologias que possuo conhecimento:** React.js, Vuetify, TailwindCSS, Materialize CSS, Bootstrap, Node.js, Express, Adonis.js (Lucid ORM, Autenticação), Docker (instalação, criar e configurar container com arquivos yml, gerenciar containers), MySQL (CRUD), Consumo de API GrapqhQL com Apollo.
 
-**Tecnologias que possuo conhecimento:**
-
-- React.js
-- Vuetify
-- Tailwind
-- Materialize CSS
-- Bootstrap 3, 4 e 5
-- Node.js
-- Express
-- Adonis.js (MVC, Middlewares)
-- Lucid ORM
-- Autenticação com Adonis.js (token)
-- Docker (instalação, criar e configurar container com arquivos yml)
-- MySQL (CRUD)
-- Consumo de API GrapqhQL com Apollo
-- Dart
-
-**Tecnologias que estou estudando:**
-
-- React Native
-- Expo
-- Styled Components
-- Flutter
+**Tecnologias que estou estudando:** React Native, Expo, Dart e Flutter
 
 Em meu tempo livre, gosto de assistir animes, filmes de ação e aventura(:tv:), tocar violão e guitarra (:guitar:) e ouvir música (:musical_note:), ler alguns livros (:books:).
 
