@@ -23,7 +23,7 @@ Quer bater um papo ou me encontrar?
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielbarrosdeoliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielbarrosdeoliveira&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
+<br />
 <div align="start"  height="100px">
   <img  height="15px" src="https://viewscount.vercel.app/get/@danielbarrosdeoliveira" alt="contador de visitas no perfil" />
 </div>
