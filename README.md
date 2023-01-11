@@ -2,9 +2,7 @@
 
 Meu nome é Daniel Barros de Oliveira, 
 
-Após 11 anos atuando na área de TI (voltado para suporte a usuários, sistemas, redes, implantação de sistemas, passando por diversas empresas de médio e grande porte, nacionais e multinacionais), resolvi migrar de área indo atuar como desenvolvedor, e hoje com cerca 2 anos como Desenvolvedor Frontend, estou trabalhando para Ília Digital, formado em ADS (Análise e Desenvolvimento de Sistemas), cursando Pós em Projetos de Aplicativos Móveis Multiplataforma, Pós graduação em Projeto Cloud Computing e apaixonado por essa área(:heart:).
-
-Gosto de buscar conhecimento e estar em constante evolução, acredito muito que se melhorarmos 1% ao dia, em 1 ano teremos evoluído 365%.
+Após 11 anos atuando na área de TI (voltado para suporte a usuários, sistemas, redes, implantação de sistemas, passando por diversas empresas de médio e grande porte, nacionais e multinacionais), resolvi migrar de área indo atuar como desenvolvedor, e hoje com mais de 2 anos como Desenvolvedor Frontend, estou trabalhando para [![Ília]](https://ilia.digital), formado em Análise e Desenvolvimento de Sistemas, atualmente cursando Pós em Projetos de Aplicativos Móveis Multiplataforma, Pós graduação em Projeto Cloud Computing e apaixonado por essa área(:heart:).
 
 **Tecnologias que atuo:** HTML5, CSS3, SASS (SCSS), Javascript (ES6+), Typescript, Vue.js, Nuxt.js (Vuex/Pinia, Vue Router), Consumo de API Rest com Axios, Jest, Vue Test Utils, Vue Testing Library.
 
@@ -24,4 +22,8 @@ Quer bater um papo ou me encontrar?
   <a href="https://github.com/danielbarrosdeoliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielbarrosdeoliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielbarrosdeoliveira&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+<div align="start"  height="100px">
+  <img  height="15px" src="https://viewscount.vercel.app/get/@danielbarrosdeoliveira" alt="contador de visitas no perfil" />
 </div>
