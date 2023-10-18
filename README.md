@@ -1,19 +1,19 @@
 ### Olá, bem-vindo(a)! :smile:
 
-Meu nome é Daniel Barros de Oliveira, 
+Olá, sou Daniel Oliveira!
 
-Olá, sou Daniel Oliveira, tenho 28 anos, possuo quase 14 anos de experiência na área de tecnologia, sendo quase 4 anos dedicados ao Desenvolvimento Web Frontend.
+Tenho 28 anos, possuo quase 14 anos de experiência na área de tecnologia, sendo quase 4 anos dedicados ao Desenvolvimento Web Frontend.
 
-Atualmente estou em busca de vagas como Desenvolvedor Fullstack ou Fullstack Developer.
+Busco vagas para atuar Desenvolvedor Fullstack Web ou Mobile seja como Freelancer, PJ ou CLT.
 
-Cursando 2° Graduação, Formação Pedagógica para Graduados não Licenciados em Matemática, previsão de conclusão 04/2025
+Formação Pedagógica para Graduados não Licenciados em Matemática, previsão de conclusão 04/2025
 Pós-graduado em Projetos de Cloud Computing
 Pós-graduado em Projetos de Aplicativos Móveis Multiplataforma
 Graduado em Análise e Desenvolvimento de Sistemas
 
 Frontend: HTML, CSS3, JavaScript, TypeScript, Vue.js (2 e 3) e Nuxt.js, Vue Router, Vuex/Pinia, Vuetify, Quasar, Vuelidate, SASS e LESS (metodologia BEM), React.js, Next.js, testes unitários com Jest, Vue Test Utils, Vue Testing Library, consumo de APIs REST com Axios e GraphQL com Apollo.
 
-Backend: Node.js, Express, Adonis 5, Prisma, Banco de Dados Relacional: MySQL, PosgreSQL e Não Relacional: MongoDB
+Backend: Node.js, Express, Adonis 5, Prisma ORM, Lucid ORM, Banco de Dados Relacional: MySQL, PosgreSQL e Não Relacional: MongoDB
 
 Mobile: Dart com Flutter, React Native/Expo
 
