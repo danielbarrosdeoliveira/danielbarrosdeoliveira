@@ -1,8 +1,6 @@
 ### Olá, bem-vindo(a)! :smile:
 
-Olá, sou Daniel Oliveira!
-
-Tenho 28 anos, possuo quase 14 anos de experiência na área de tecnologia, sendo quase 4 anos dedicados ao Desenvolvimento Web Frontend.
+Meu nome é Daniel Oliveira, Tenho 28 anos, possuo quase 14 anos de experiência na área de tecnologia, sendo quase 4 anos dedicados ao Desenvolvimento Web Frontend.
 
 Busco vagas para atuar Desenvolvedor Fullstack Web ou Mobile seja como Freelancer, PJ ou CLT.
 
