@@ -2,13 +2,23 @@
 
 Meu nome é Daniel Barros de Oliveira, 
 
-Após 11 anos atuando na área de TI (voltado para suporte a usuários, sistemas, redes, implantação de sistemas, passando por diversas empresas de médio e grande porte, nacionais e multinacionais), resolvi migrar de área indo atuar como desenvolvedor, e hoje com mais de 2 anos como Desenvolvedor Frontend, estou trabalhando para [![Ília]](https://ilia.digital), formado em Análise e Desenvolvimento de Sistemas, atualmente cursando Pós em Projetos de Aplicativos Móveis Multiplataforma, Pós graduação em Projeto Cloud Computing e apaixonado por essa área(:heart:).
+Olá, sou Daniel Oliveira, tenho 28 anos, possuo quase 14 anos de experiência na área de tecnologia, sendo quase 4 anos dedicados ao Desenvolvimento Web Frontend.
 
-**Tecnologias que atuo:** HTML5, CSS3, SASS (SCSS), Javascript (ES6+), Typescript, Vue.js, Nuxt.js (Vuex/Pinia, Vue Router), Consumo de API Rest com Axios, Jest, Vue Test Utils, Vue Testing Library.
+Atualmente estou em busca de vagas como Desenvolvedor Fullstack ou Fullstack Developer.
 
-**Tecnologias que possuo conhecimento:** React.js, Vuetify, TailwindCSS, Materialize CSS, Bootstrap, Node.js, Express, Adonis.js (Lucid ORM, Autenticação), Docker (instalação, criar e configurar container com arquivos yml, gerenciar containers), MySQL (CRUD), Consumo de API GrapqhQL com Apollo.
+Cursando 2° Graduação, Formação Pedagógica para Graduados não Licenciados em Matemática, previsão de conclusão 04/2025
+Pós-graduado em Projetos de Cloud Computing
+Pós-graduado em Projetos de Aplicativos Móveis Multiplataforma
+Graduado em Análise e Desenvolvimento de Sistemas
 
-**Tecnologias que estou estudando:** React Native, Expo, Dart e Flutter
+Frontend: HTML, CSS3, JavaScript, TypeScript, Vue.js (2 e 3) e Nuxt.js, Vue Router, Vuex/Pinia, Vuetify, Quasar, Vuelidate, SASS e LESS (metodologia BEM), React.js, Next.js, testes unitários com Jest, Vue Test Utils, Vue Testing Library, consumo de APIs REST com Axios e GraphQL com Apollo.
+
+Backend: Node.js, Express, Adonis 5, Prisma, Banco de Dados Relacional: MySQL, PosgreSQL e Não Relacional: MongoDB
+
+Mobile: Dart com Flutter, React Native/Expo
+
+Versionamento de código e trabalho em equipes com: Git, Github, Gitlab, BitBucket e Azure Devops.
+Vivência com metodologias ágeis: Scrum e Kanban.
 
 Em meu tempo livre, gosto de assistir animes, filmes de ação e aventura(:tv:), tocar violão e guitarra (:guitar:) e ouvir música (:musical_note:), ler alguns livros (:books:).
 
