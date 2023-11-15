@@ -4,8 +4,8 @@ Meu nome é Daniel Oliveira, Tenho 28 anos, possuo quase 14 anos de experiência
 
 Busco vagas para atuar Desenvolvedor Fullstack Web ou Mobile seja como Freelancer, PJ ou CLT.
 
-Pós-graduado em Projetos de Cloud Computing, 05/2023
-Pós-graduado em Projetos de Aplicativos Móveis Multiplataforma, 05/2023
+Pós-graduado em Projetos de Cloud Computing, 05/2023 <br />
+Pós-graduado em Projetos de Aplicativos Móveis Multiplataforma, 05/2023 <br />
 Graduado em Análise e Desenvolvimento de Sistemas, 12/2019
 
 Frontend: HTML, CSS3, JavaScript, TypeScript, Vue.js (2 e 3) e Nuxt.js, Vue Router, Vuex/Pinia, Vuetify, Quasar, Vuelidate, SASS e LESS (metodologia BEM), React.js, Next.js, testes unitários com Jest, Vue Test Utils, Vue Testing Library, consumo de APIs REST com Axios e GraphQL com Apollo.
