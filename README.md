@@ -2,7 +2,11 @@
 
 Meu nome é Daniel Oliveira, Tenho 28 anos, possuo quase 14 anos de experiência na área de tecnologia, sendo quase 4 anos dedicados ao Desenvolvimento Web Frontend.
 
-Busco vagas para atuar Desenvolvedor Fullstack Web ou Mobile seja como Freelancer, PJ ou CLT.
+## ✔ Objetivo
+
+Atuar como Desenvolvedor Fullstack Web, Desenvolvedor Frontend ou Mobile
+
+## 🎓 Formação Acadêmica
 
 - Pós-graduado em Projetos de Cloud Computing, 05/2023
 - Pós-graduado em Projetos de Aplicativos Móveis Multiplataforma, 05/2023
