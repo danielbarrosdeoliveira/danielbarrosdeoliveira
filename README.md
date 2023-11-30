@@ -14,37 +14,38 @@ Atuar como Desenvolvedor Fullstack Web, Desenvolvedor Frontend ou Mobile
 
 ## 💼 Tencologias
 
-### 💅 Frontend
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white&color=blue" /> <img src="https://img.shields.io/badge/cssmodules-1D1717?style=for-the-badge&logo=cssmodules&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> <img src="https://img.shields.io/badge/less-1D365D?style=for-the-badge&logo=less&logoColor=white" /> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" /> <img src="https://img.shields.io/badge/Nuxt.js-000?logo=nuxtdotjs&style=for-the-badge" /> <img src="https://img.shields.io/badge/vuetify-1867C0?logo=vuetify&style=for-the-badge" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge" /> <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" /> <img src="https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white" /> <img src="https://img.shields.io/badge/axios-000?style=for-the-badge&logo=axios&logoColor=white" /> <img src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red" /> <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" /> <img src="https://img.shields.io/badge/express.js-339933?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Adonis.js-5A45FF?style=for-the-badge&logo=adonisjs&logoColor=white" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" /> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/expo-000020?style=for-the-badge&logo=expo&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" /> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/azure_devops-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" /> <img src="https://img.shields.io/badge/githubpages-222222?style=for-the-badge&logo=githubpages&logoColor=white" />
 
-HTML, CSS, JavaScript, TypeScript, Vue.js (2 e 3) com Option API e Composition API e Nuxt.js, Vue Router, Vuex/Pinia, Vuetify, Quasar, Vuelidate, SASS e LESS (metodologia BEM), React.js, Next.js, testes unitários com Jest, Vue Test Utils, Vue Testing Library, consumo de APIs REST com Axios e GraphQL com Apollo.
+## ⚙ Ferramentas
 
-### 🌐 Backend
+<img src="https://img.shields.io/badge/vs_code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/windows_10-0078D6?style=for-the-badge&logo=windows10&logoColor=white" /> <img src="https://img.shields.io/badge/figma-0A222E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/editor_config-17181B?style=for-the-badge&logo=editorconfig&logoColor=white" /> <img src="https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" /> <img src="https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" />
 
-Node.js, Express, Adonis 5, Prisma ORM, Lucid ORM, Banco de Dados Relacional: MySQL, PosgreSQL e Não Relacional: MongoDB
+## 🖥 Setup
+<img src="https://img.shields.io/badge/lenovo-E2231A?style=for-the-badge&logo=lenovo&logoColor=white" /> <img src="https://img.shields.io/badge/lg-A50034?style=for-the-badge&logo=lg&logoColor=white" /> <img src="https://img.shields.io/badge/logitech-00B8FC?style=for-the-badge&logo=logitech&logoColor=white" />
 
-### 📱 Mobile
-
-Dart com Flutter, React Native/Expo
-
-### 🏋️‍♂️ Versionamento de código e trabalho em equipes
-
-Git, Github, Gitlab, BitBucket e Azure Devop
-  
-### 🚀 Metodologias ágeis: 
-
-Scrum e Kanban
+- Marca/Modelo: Lenovo S145-15IWL
+- Processador: Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz
+- Memória RAM: DDR4 20,0 GB
+- Placa Gráfica: Nome	Intel(R) UHD Graphics 620
+- Armazenamento: SSD 480GB e HDD 1TB
+- Mouse/Teclado: Kit Logitech MK235
+- Fode de Ouvido: Edifier X3
+- Monitor: LG MP400 23.8" Full HD IPS LCD
 
 ## 😁 Hoobies
 
 Em meu tempo livre, gosto de assistir animes, filmes de ação e aventura(:tv:), tocar violão e guitarra (:guitar:) e ouvir música (:musical_note:), ler alguns livros (:books:).
 
-## ✉ Contato
+## ✉ Redes Sociais e Contato
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&labelColor=red&logo=instagram&logoColor=white&link=https://www.instagram.com/danieloliveira_dev/)](https://www.instagram.com/danieloliveira_dev/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielbarrosdeoliveira/)](https://www.linkedin.com/in/danielbarrosdeoliveira/)
-![Linkedin Badge](https://img.shields.io/static/v1?label=email&message=danielbarrosdeoliveira@outlook.com&color=blue)
+[![Instagram Badge](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danieloliveira_dev/)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielbarrosdeoliveira/)
+[![TikTok Badge](https://img.shields.io/badge/tiktok-293239?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@danieloliveira_dev)
+[![YouTube Badge](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@danieloliveira_dev)
+[![E-mail Badge](https://img.shields.io/static/v1?label=email&message=danielbarrosdeoliveira@outlook.com&color=blue&style=for-the-badge)](mailto:danielbarrosdeoliveira@outlook.com)
 
-## ℹ Informações Gerais 
+## ℹ Informações Gerais
+
 <div>
   <a href="https://github.com/danielbarrosdeoliveira">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielbarrosdeoliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true" aling="left"/>
