@@ -34,7 +34,7 @@ Atuar como Desenvolvedor Fullstack Web, Desenvolvedor Frontend ou Mobile
 
 ## 😁 Hoobies
 
-Em meu tempo livre, gosto de assistir animes, filmes de ação e aventura(:tv:), tocar violão e guitarra (:guitar:) e ouvir música (:musical_note:), ler alguns livros (:books:).
+Em meu tempo livre, gosto de assistir animes, filmes de ação e aventura 📺, tocar instrumentos 🎸, ouvir música 🎧, e ler alguns livros 📚.
 
 ## ✉ Redes Sociais e Contato
 
