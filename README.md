@@ -33,7 +33,7 @@ Atuar como Desenvolvedor Frontend Web ou Mobile
 - Fode de Ouvido: Baseus Bowie D05 (Sem Fio)
 - Monitor: LG MP400 23.8" Full HD IPS LCD
 
-## 😁 Hoobies
+## 😁 Hobbies
 
 Em meu tempo livre, gosto de assistir animes, filmes de ação e aventura 📺, tocar instrumentos 🎸, ouvir música 🎧, e ler alguns livros 📚.
 
