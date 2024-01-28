@@ -25,11 +25,12 @@ Atuar como Desenvolvedor Frontend Web ou Mobile
 
 - Marca/Modelo: Lenovo S145-15IWL
 - Processador: Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz
-- Memória RAM: DDR4 20,0 GB
+- Memória RAM: DDR4 20 GB, Slot 1 4GB Soldado, Slot 2 16GB Crucial 3600Mhz
 - Placa Gráfica: Nome	Intel(R) UHD Graphics 620
-- Armazenamento: SSD 480GB e HDD 1TB
+- Armazenamento Principal: SSD 480GB NVM-e Western Digital SN350
+- Armazenamento Backup: HDD 1TB Western Digital WD Blue (WD10SPZX)
 - Mouse/Teclado: Kit Logitech MK235
-- Fode de Ouvido: Edifier X3
+- Fode de Ouvido: Baseus Bowie D05 (Sem Fio)
 - Monitor: LG MP400 23.8" Full HD IPS LCD
 
 ## 😁 Hoobies
