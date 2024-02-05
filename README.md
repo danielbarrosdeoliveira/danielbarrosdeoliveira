@@ -21,17 +21,19 @@ Atuar como Desenvolvedor Frontend Web ou Mobile
 <img src="https://img.shields.io/badge/vs_code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/windows_10-0078D6?style=for-the-badge&logo=windows10&logoColor=white" /> <img src="https://img.shields.io/badge/figma-0A222E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/editor_config-17181B?style=for-the-badge&logo=editorconfig&logoColor=white" /> <img src="https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" /> <img src="https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" />
 
 ## 🖥 Setup
-<img src="https://img.shields.io/badge/lenovo-E2231A?style=for-the-badge&logo=lenovo&logoColor=white" /> <img src="https://img.shields.io/badge/lg-A50034?style=for-the-badge&logo=lg&logoColor=white" /> <img src="https://img.shields.io/badge/logitech-00B8FC?style=for-the-badge&logo=logitech&logoColor=white" />
 
-- Marca/Modelo: Lenovo S145-15IWL
-- Processador: Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz
-- Memória RAM: DDR4 20 GB, Slot 1 4GB Soldado, Slot 2 16GB Crucial 3600Mhz
-- Placa Gráfica: Nome	Intel(R) UHD Graphics 620
-- Armazenamento Principal: SSD 480GB NVM-e Western Digital SN350
-- Armazenamento Backup: HDD 1TB Western Digital WD Blue (WD10SPZX)
+- Marca/Modelo: Daniel Oliveira/0001
+- CPU: AMD Ryzen 5 5500 3.6 Ghz Boost 4.2Ghz
+- Cooler: AMD Wraith Stealth
+- MoBo: MSI A520M-A PRO
+- RAM: Asgard Freyr T3 16GB (2x8GB) 3200mhz DDR4 
+- GPU: AMD Radeon RX6600 8GB GDDR6
+- SSD: Western Digital Wd Green SN350 WDS480G2G0C 480GB NVM-e
+- HDD: Seagate Barracuda ST1500DL003-9VT16L 1.5TB
+- Gabinete: Ninja Prime, RGB, Mid Tower, Vidro Temperado, ATX com 3 Fans
+- Monitor: LG MP400 23.8" Full HD IPS LCD
 - Mouse/Teclado: Kit Logitech MK235
 - Fode de Ouvido: Baseus Bowie D05 (Sem Fio)
-- Monitor: LG MP400 23.8" Full HD IPS LCD
 
 ## 😁 Hobbies
 
