@@ -22,16 +22,15 @@ Atuar como Desenvolvedor Frontend Web ou Mobile
 
 ## 🖥 Setup
 
-- Marca/Modelo: Daniel Oliveira/0001
 - CPU: AMD Ryzen 5 5500 3.6 Ghz Boost 4.2Ghz
 - Cooler: AMD Wraith Stealth
 - MoBo: MSI A520M-A PRO
-- RAM: Asgard Freyr T3 16GB (2x8GB) 3200mhz DDR4 
+- RAM: 16GB (2x8GB) 3200mhz DDR4 | Asgard Freyr T3  (Dual Channel)
 - GPU: AMD Radeon RX6600 8GB GDDR6
-- SSD: Western Digital Wd Green SN350 WDS480G2G0C 480GB NVM-e
-- HDD: Seagate Barracuda ST1500DL003-9VT16L 1.5TB
+- SSD: 480GB NVM-e | Western Digital Wd Green SN350 WDS480G2G0C 
+- HDD: 1.5TB SATA Seagate Barracuda | ST1500DL003-9VT16L 
 - Gabinete: Ninja Prime, RGB, Mid Tower, Vidro Temperado, ATX com 3 Fans
-- Monitor: LG MP400 23.8" Full HD IPS LCD
+- Monitor: 23.8" Full HD IPS LCD | LG MP400   
 - Mouse/Teclado: Kit Logitech MK235
 - Fode de Ouvido: Baseus Bowie D05 (Sem Fio)
 
