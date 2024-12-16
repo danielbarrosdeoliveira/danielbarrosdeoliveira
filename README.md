@@ -21,18 +21,21 @@ Meu nome é Daniel Oliveira, Tenho 28 anos, possuo quase 14 anos de experiência
 - CPU: AMD Ryzen 5 5500 3.6 Ghz Boost 4.2Ghz
 - Cooler: AMD Wraith Stealth
 - MoBo: MSI A520M-A PRO
+- PSU: MSI MAG A650BN, 650W 80 Plus Bronze | 306-7ZP2B22-CE0
 - RAM: 16GB (2x8GB) 3200mhz DDR4 | Asgard Freyr T3  (Dual Channel)
 - GPU: AMD Radeon RX6600 8GB GDDR6
 - SSD: 480GB NVM-e | Western Digital Wd Green SN350 WDS480G2G0C 
-- HDD: 1.5TB SATA Seagate Barracuda | ST1500DL003-9VT16L 
+- HDD: 1.5TB | Seagate Barracuda ST1500DL003-9VT16L 
 - Gabinete: Ninja Prime, RGB, Mid Tower, Vidro Temperado, ATX com 3 Fans
-- Monitor: 23.8" Full HD IPS LCD | LG MP400   
-- Mouse/Teclado: Kit Logitech MK235
-- Fode de Ouvido: Baseus Bowie D05 (Sem Fio)
+- Monitor: LG 23.8" Full HD IPS LCD | MP400   
+- Mouse: Attack Shark R1 | Sensor PAW3311 Gaming Sensor, Bluetooth/2.4G
+- Teclado: Machenike K500B-B87 - PT-BR (Com Fio)
+- Fone de Ouvido: Baseus Bowie D05 (Sem Fio)
+- Microfone: AT-729 | FU-AT-729 (White Label)
 
 ## 😁 Hobbies
 
-Em meu tempo livre, gosto de assistir animes, filmes de ação e aventura 📺, tocar instrumentos 🎸, ouvir música 🎧, e ler alguns livros 📚.
+Quando tenho um tempo livre, gosto de assistir animes, filmes de ação e aventura 📺, tocar instrumentos 🎸, ouvir música 🎧, ler alguns livros 📚, e viajar ✈️🏖️
 
 ## ✉ Redes Sociais e Contato
 
