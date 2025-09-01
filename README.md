@@ -1,6 +1,6 @@
 ### Olá, bem-vindo(a)! :smile:
 
-Meu nome é Daniel Oliveira, Tenho 28 anos, possuo quase 14 anos de experiência na área de tecnologia, sendo quase 4 anos dedicados ao Desenvolvimento Web Frontend, atualmente sou Desenvolvedor Fullstack na Enkel IT.
+Meu nome é Daniel Oliveira, Tenho 30 anos, mais de 15 anos de experiência na área de tecnologia, sendo quase 5 anos dedicados ao Desenvolvimento, já atuei como Frontend, Mobile Flutter e atualmente Fullstack na Enkel TI.
 
 ## 🎓 Formação Acadêmica
 
@@ -30,7 +30,7 @@ Meu nome é Daniel Oliveira, Tenho 28 anos, possuo quase 14 anos de experiência
 - Monitor: LG 23.8" Full HD IPS LCD | MP400   
 - Mouse: Attack Shark R1 | Sensor PAW3311 Gaming Sensor, Bluetooth/2.4G
 - Teclado: Machenike K500B-B87 - PT-BR (Com Fio)
-- Fone de Ouvido: Baseus Bowie D05 (Sem Fio)
+- Fone de Ouvido: Havit Life NC01H  (Sem Fio)
 - Microfone: AT-729 | FU-AT-729 (White Label)
 
 ## 😁 Hobbies
