@@ -26,6 +26,11 @@ Meu nome é Daniel Oliveira, Tenho 30 anos, mais de 15 anos de experiência na �
 
 <img src="https://img.shields.io/badge/vs_code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/windows_10-0078D6?style=for-the-badge&logo=windows10&logoColor=white" /> <img src="https://img.shields.io/badge/figma-0A222E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/editor_config-17181B?style=for-the-badge&logo=editorconfig&logoColor=white" /> <img src="https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" /> <img src="https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" />
 
+## 🎫 Certificações/Badges
+
+![Imagem do WhatsApp de 2025-09-26 à(s) 15 00 35_83eac015](https://github.com/user-attachments/assets/1dd9c840-4105-4ed7-816d-c6e15b1e5e5d)
+
+
 ## 🖥 Setup
 
 - CPU: AMD Ryzen 5 5500 3.6 Ghz Boost 4.2Ghz
