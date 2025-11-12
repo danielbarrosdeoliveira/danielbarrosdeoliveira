@@ -26,10 +26,16 @@ Meu nome é Daniel Oliveira, Tenho 30 anos, mais de 15 anos de experiência na �
 
 <img src="https://img.shields.io/badge/vs_code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/windows_10-0078D6?style=for-the-badge&logo=windows10&logoColor=white" /> <img src="https://img.shields.io/badge/figma-0A222E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/editor_config-17181B?style=for-the-badge&logo=editorconfig&logoColor=white" /> <img src="https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" /> <img src="https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" />
 
-## 🎫 Certificações/Badges
+## 🏅 Certificações/Badges
 
-![Imagem do WhatsApp de 2025-09-26 à(s) 15 00 35_83eac015](https://github.com/user-attachments/assets/1dd9c840-4105-4ed7-816d-c6e15b1e5e5d)
-
+<p align="center">
+  <a href="https://www.credly.com/badges/549f5c9d-fa72-4b55-b4fb-5d2cc227ce14/public_url" target="_blank">
+    <img width="200" src="https://github.com/user-attachments/assets/b65fcb0c-ad4d-4320-85f8-6460567e4af5" alt="aws-partner-accreditation-badge" />
+  </a>
+  <a href="https://www.credly.com/badges/27838e45-4d59-4de5-ad99-e10dc82b3f71/public_url" target="_blank">
+    <img width="200" src="https://github.com/user-attachments/assets/51211c2d-45f6-4136-afba-ca964be25cf6" alt="aws-certified-cloud-practitioner" />
+  </a>
+</p>
 
 ## 🖥 Setup
 
