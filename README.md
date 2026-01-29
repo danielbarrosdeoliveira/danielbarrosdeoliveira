@@ -79,8 +79,7 @@ Quando tenho um tempo livre, gosto de assistir animes, filmes de ação e aventu
 <p align="left">
 <a href="https://www.linkedin.com/in/danielbarrosdeoliveira/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.instagram.com/d3danieloliveira/"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://www.tiktok.com/@d3danieloliveira"><img src="https://img.shields.io/badge/tiktok-293239?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
-<a href="https://www.youtube.com/@danieloliveira_dev"><img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://www.youtube.com/@danieloliveiradev"><img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <a href="mailto:danielbarrosdeoliveira@outlook.com"><img src="https://img.shields.io/static/v1?label=email&message=danielbarrosdeoliveira@outlook.com&color=blue&style=for-the-badge" /></a>
 </p>
 
